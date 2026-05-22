@@ -1,17 +1,30 @@
 # Tamil-English Sentiment Analysis Dataset
 
-## Author
-Gracy Sivaji | Data Analyst | Coimbatore, India
+## Project Overview
+A bilingual Tamil-English sentiment analysis dataset built for AI training purposes.
 
-## About
-Bilingual Tamil-English sentiment dataset built for AI training. 50 sentences across 7 categories labeled Positive, Negative, and Neutral.
+## Author
+**Gracy Sivaji** | Data Analyst | Coimbatore, India
+
+## Dataset Details
+- Total Sentences: 50
+- Languages: Tamil & English
+- Sentiments: Positive, Negative, Neutral
+- Categories: General, Education, Work, Health, Family, Food, Weather
 
 ## Tools Used
-Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
+- Python | Pandas | Matplotlib | Seaborn
+- Jupyter Notebook | Excel
 
-## Files
-- Tamil_Sentiment_Dataset.xlsx — Main dataset
-- Tamil_Sentiment_Analysis.ipynb — Analysis notebook
-- sentiment_distribution.png — Chart
-- sentiment_heatmap.png — Heatmap
-- sentiment_summary_report.xlsx — Summary
+## Key Findings
+- 20 Positive sentences
+- 20 Negative sentences
+- 10 Neutral sentences
+- 7 Categories covered
+
+## Skills Demonstrated
+- Bilingual Data Annotation
+- Sentiment Analysis
+- Data Visualization
+- AI Training Dataset Creation
+- Tamil NLP Data Preparation
